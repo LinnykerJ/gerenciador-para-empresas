@@ -1,4 +1,4 @@
-package br.com.joao.gerenciador.servlet;
+package br.com.joao.gerenciador.modelo;
 
 import java.util.Date;
 
